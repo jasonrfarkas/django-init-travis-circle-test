@@ -1,0 +1,9 @@
+---
+project_name: testpy3
+project_repo_url: git@github.com:jasonrfarkas/testpy3-web.git
+project_repo_remote: origin
+domain_name: testpy3.com
+repo_version: master
+python3: True
+py_venv_version: 3.5
+pg_gis: False

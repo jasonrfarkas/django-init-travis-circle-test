@@ -1,0 +1,3 @@
+[run]
+source = testpy3/
+omit = '*tests*,*commands*,*migrations*,*admin*,*wsgi*'
